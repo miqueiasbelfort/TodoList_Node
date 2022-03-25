@@ -16,5 +16,5 @@ ___
 ___
  
 <div align="center">
-  <p>Feito com carrinho 💙 por Miqueias Belfort</p>
+  <p>Build with care 💙 por Miqueias Belfort</p>
 </div>
